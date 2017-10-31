@@ -1,1 +1,10 @@
-.fat-thursday::after { font-weight: bold; }
+.fat-thursday::after 
+{ 
+  font-weight: bold; 
+}
+
+#titanic 
+{ 
+  float: none; 
+}
+
